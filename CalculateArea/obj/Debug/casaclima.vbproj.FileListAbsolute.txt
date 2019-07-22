@@ -10,3 +10,15 @@ C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\cas
 C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\casaclima.dll
 C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\casaclima.xml
 C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\casaclima.pdb
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\bin\Debug\casaclima.dll
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\bin\Debug\casaclima.pdb
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\bin\Debug\casaclima.xml
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.vbprojAssemblyReference.cache
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.Resources.resources
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.UserControl1.resources
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.casaclima.MyCommands.resources
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.vbproj.GenerateResource.cache
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.vbproj.CoreCompileInputs.cache
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.dll
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.xml
+C:\Users\dietm\Documents\GitHub\Casa-Clima\CalculateArea\obj\Debug\casaclima.pdb
