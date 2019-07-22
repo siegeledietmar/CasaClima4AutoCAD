@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage
+    SchemaVersion="1.0"
+    AutodeskProduct="AutoCAD"
+    Name="Casa Clima Plugin"
+    Description="Casa Clima Plugin with several tools."
+    AppVersion="3.0.21" 
+    FriendlyVersion="3.0.21" 
+    ProductType="Application"
+    SupportedLocales="Enu"
+    AppNameSpace="appstore.exchange.autodesk.com"
+    Author="Autodesk, Inc"
+    ProductCode="{26FB18F7-B553-430D-94F6-C2389A91235F}"
+    UpgradeCode="{7DE2392C-408E-48AF-A7F6-48E9E1CD6D05}"
+    OnlineDocumentation="www.autodesk.com"
+    >
+  <CompanyDetails Name="Autodesk" Url="www.autodesk.com" Email="apps@autodesk.com" Phone=" " />
+
+  <Components Description="AutoCAD x64">
+    <RuntimeRequirements OS="Win64" Platform="AutoCAD*" SeriesMin="R19.0" SeriesMax="R23.1" />
+    <RegistryEntries>
+        <RegistryEntry
+            Key="WebMobile"
+            Name="WebMobAppPackageVersion"
+            Value="3.0.21"
+            Type="REG_SZ"
+            Flags="Create|Open"
+        />
+    </RegistryEntries>
+
+    <ComponentEntry AppName="casaclima" Version="1.0.0" ModuleName="./Contents/AutoCAD/$(OS)/casaclima.dll" LoadOnAutoCADStartup="True" />
+  </Components>
+
+</ApplicationPackage>

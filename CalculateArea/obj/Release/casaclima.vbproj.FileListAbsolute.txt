@@ -1,0 +1,11 @@
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Release\casaclima.vbproj.GenerateResource.cache
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Release\casaclima.vbproj.CoreCompileInputs.cache
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\bin\Release\casaclima.dll
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\bin\Release\casaclima.pdb
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\bin\Release\casaclima.xml
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Release\casaclima.Resources.resources
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Release\casaclima.UserControl1.resources
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Release\casaclima.casaclima.MyCommands.resources
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Release\casaclima.dll
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Release\casaclima.xml
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Release\casaclima.pdb

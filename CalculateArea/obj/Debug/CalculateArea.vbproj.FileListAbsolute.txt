@@ -1,0 +1,12 @@
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.vbprojAssemblyReference.cache
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.Resources.resources
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.CalculateArea.MyCommands.resources
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.vbproj.GenerateResource.cache
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.vbproj.CoreCompileInputs.cache
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\bin\Debug\CalculateArea.dll
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\bin\Debug\CalculateArea.xml
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.dll
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.xml
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.pdb
+C:\Users\dietm\source\repos\KeepAttributesHorizontal\CalculateArea\obj\Debug\CalculateArea.UserControl1.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KeepAttributesHorizontal", "KeepAttributesHorizontal\KeepAttributesHorizontal.vbproj", "{7E7457D5-379C-4EEB-8658-BB98AF98CA52}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "casaclima", "CalculateArea\casaclima.vbproj", "{779EC0FF-C053-42F8-A30A-EB5D50F9A018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7457D5-379C-4EEB-8658-BB98AF98CA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7457D5-379C-4EEB-8658-BB98AF98CA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7457D5-379C-4EEB-8658-BB98AF98CA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7457D5-379C-4EEB-8658-BB98AF98CA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779EC0FF-C053-42F8-A30A-EB5D50F9A018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779EC0FF-C053-42F8-A30A-EB5D50F9A018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779EC0FF-C053-42F8-A30A-EB5D50F9A018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779EC0FF-C053-42F8-A30A-EB5D50F9A018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0EA2561-1C3C-445A-B136-FE747FA5A15C}
+	EndGlobalSection
+EndGlobal

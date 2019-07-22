@@ -1,0 +1,7 @@
+1. INSTALL
+Copy folder to
+%appdata%\Autodesk\ApplicationPlugins
+
+2. USE
+	CCarea
+	CCwindows
